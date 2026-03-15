@@ -1,99 +1,107 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Tyrone&fontColor=58a6ff&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Germany%20🇩🇪&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-# Hey there! 👋 I'm Tyrone
+```
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║   > Building things that live on the internet            ║
+  ║   > Turning caffeine into code since 2019                ║
+  ║   > Currently shipping: Syntex                           ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
+```
 
-### Passionate Developer from Germany 🇩🇪
+</div>
+
+## ◈ What I'm building
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ [Syntex](https://github.com/Tyrone12345-cmd/Syntex)
+Discord-Ökosystem mit KI, Musik & Dashboard
+
+<kbd>SvelteKit</kbd> <kbd>.NET 8</kbd> <kbd>Discord.js</kbd> <kbd>OpenAI</kbd>
+
+- 🎵 YouTube & Spotify Musik-Streaming
+- 🧠 GPT-4 Chat + Voice AI (Whisper/TTS)
+- 🛡️ Auto-Moderation mit Warn-System
+- 📊 Web-Dashboard für Server-Config
+
+[Live Demo →](http://161.35.25.10) · [Bot einladen →](https://discord.com/oauth2/authorize?client_id=1481752354150940794&permissions=8&scope=bot%20applications.commands)
+
+</td>
+<td width="50%">
+
+### 🔧 What I work with
+
+**Languages**
+```
+TypeScript  ████████████████░░░░  80%
+C#          ██████████░░░░░░░░░░  50%
+Python      ████████░░░░░░░░░░░░  40%
+Java        ██████░░░░░░░░░░░░░░  30%
+```
+
+**Currently exploring**
+- 🤖 AI/ML integration in apps
+- 🎙️ Real-time voice processing
+- ☁️ Cloud infrastructure & DevOps
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Toolbox
+
+<div align="center">
+
+| Category | Technologies |
+|:--------:|:------------|
+| **Frontend** | ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Backend** | ![.NET](https://img.shields.io/badge/-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Data** | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **[Syntex](https://github.com/Tyrone12345-cmd/Syntex)** — a Discord Bot with AI, Music & Web Dashboard
-- 🌐 Check out the live site: **[syntex.live](http://161.35.25.10)**
-- 💡 I love building full-stack applications and Discord bots
-- 📫 Reach me on Discord or GitHub
-
----
-
-## 🛠️ Tech Stack
+## ◈ Stats
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Tyrone12345-cmd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrone12345-cmd&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages" height="170"/>
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tyrone12345-cmd&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tyrone12345-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrone12345-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tyrone12345-cmd&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyrone12345-cmd&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ◈ Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tyrone12345-cmd&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-[![Syntex](https://github-readme-stats.vercel.app/api/pin/?username=Tyrone12345-cmd&repo=Syntex&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Tyrone12345-cmd/Syntex)
-
-**⚡ Syntex** — Discord Bot mit KI-Chat, Musik-Streaming, Moderation & Web-Dashboard
-
-[🌐 Live-Demo](http://161.35.25.10) · [📖 Docs](https://github.com/Tyrone12345-cmd/Syntex#readme) · [🤖 Bot einladen](https://discord.com/oauth2/authorize?client_id=1481752354150940794&permissions=8&scope=bot%20applications.commands)
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tyrone12345-cmd&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -101,6 +109,14 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Tyrone12345-cmd&style=for-the-badge&color=F85D7F" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Tyrone12345-cmd&style=flat-square&color=58a6ff&label=Profile+Views" />
+
+<br/><br/>
+
+```
+ Built with ❤️ and mass amounts of mass ☕
+```
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
